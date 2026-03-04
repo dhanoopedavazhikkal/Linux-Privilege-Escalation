@@ -19,34 +19,7 @@ This project was designed to cover the main privilege escalation vectors and giv
 <h2>Project Summary:</h2>
 
 
-<p align="center">
-Launch the utility: <br/>
-<img src="" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="="80%" width="80%" alt=""/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
-</p>
+
 
 <!--
  ```diff
